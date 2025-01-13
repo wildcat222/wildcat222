@@ -4,7 +4,7 @@
 
 ### Developer who aspires for continuous growth 🌱
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lcy2825)](https://solved.ac/wildcat222)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wildcat222)](https://solved.ac/wildcat222)
 
 ## 🛠 Tech Stack
 
@@ -39,10 +39,10 @@
 ## 📊 GitHub Stats
 
 <a href="https://github.com/wildcat222/github-readme-stats">
- <img src="https://github-readme-stats.vercel.app/api?username=leebackcoding&show_icons=true&theme=tokyonight" width="42%" />
+ <img src="https://github-readme-stats.vercel.app/api?username=wildcat222&show_icons=true&theme=tokyonight" width="42%" />
 </a>
 <a href="https://github.com/wildcat222/github-readme-stats">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leebackcoding&layout=compact&theme=tokyonight" width="36%" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildcat222&layout=compact&theme=tokyonight" width="36%" />
 </a>
 
 </div>
