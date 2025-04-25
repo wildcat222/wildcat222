@@ -31,6 +31,8 @@
 <!-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white) -->
 <!-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black) -->
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%2301579b?style=flat-square&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 ### 🛠 Others
 ![Mybatis](https://img.shields.io/badge/Mybatis-000000?style=flat-square&logo=Mybatis&logoColor=white)
