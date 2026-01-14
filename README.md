@@ -12,7 +12,7 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+<!--  ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=Spring&logoColor=white) -->
 <!-- ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white) -->
 <!-- ![Spring Framework](https://img.shields.io/badge/Spring_Framework-6DB33F?style=flat-square&logo=Spring&logoColor=white) -->
 <!-- ![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat-square&logo=Spring&logoColor=white) -->
@@ -36,7 +36,7 @@
 
 ### 🛠 Others
 ![Mybatis](https://img.shields.io/badge/Mybatis-000000?style=flat-square&logo=Mybatis&logoColor=white)
-![QueryDSL](https://img.shields.io/badge/QueryDSL-0769AD?style=flat-square&logo=QueryDSL&logoColor=white)
+<!--  ![QueryDSL](https://img.shields.io/badge/QueryDSL-0769AD?style=flat-square&logo=QueryDSL&logoColor=white) -->
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSONWebTokens&logoColor=white)
 
 ## 📊 GitHub Stats
